@@ -1,6 +1,8 @@
 jQuery-File-Upload example with Spring MVC
 ------------------------------------------
 
+You need to install _JDK 1.8_ and set __JAVA_HOME__ to it before running `gradlew`.
+
 To build war execute
 
 `gradlew :build`
